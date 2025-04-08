@@ -38,10 +38,8 @@
             <li><i class="fas fa-envelope"></i> zingshop@zing.shop</li>
           </ul>
           <div class="payment-methods">
-            <i class="fab fa-cc-visa"></i>
-            <i class="fab fa-cc-mastercard"></i>
-            <i class="fab fa-cc-paypal"></i>
-            <i class="fas fa-money-bill-wave"></i>
+            <img src="../assets/easypaisa.png" alt="" style="width: 100px;height: 70px;">
+            <img src="../assets/jazzcash.png" alt="" style="width: 100px;height: 70px;">
           </div>
         </div>
       </div>

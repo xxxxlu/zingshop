@@ -9,26 +9,6 @@
           <p>Have questions about our products or your order? We're here to help! Use the contact information below or fill out the form to reach our customer service team.</p>
 
           <div class="info-items">
-            <div class="info-item">
-              <div class="info-icon">
-                <i class="fas fa-map-marker-alt"></i>
-              </div>
-              <div class="info-content">
-                <h3>Address</h3>
-                <p>123 Main Street, Karachi, Pakistan</p>
-              </div>
-            </div>
-
-            <div class="info-item">
-              <div class="info-icon">
-                <i class="fas fa-phone"></i>
-              </div>
-              <div class="info-content">
-                <h3>Phone</h3>
-                <p>+92 123 456 7890</p>
-                <p>+92 123 456 7891</p>
-              </div>
-            </div>
 
             <div class="info-item">
               <div class="info-icon">
@@ -36,8 +16,7 @@
               </div>
               <div class="info-content">
                 <h3>Email</h3>
-                <p>info@pakistanstore.com</p>
-                <p>support@pakistanstore.com</p>
+                <p>zingshop@zingshop.store</p>
               </div>
             </div>
 

@@ -3,7 +3,7 @@
     <div class="container">
       <div class="footer-content">
         <div class="footer-section">
-          <h3>PakistanStore</h3>
+          <h3>ZING SHOP</h3>
           <p>Your trusted online marketplace for authentic Pakistani products.</p>
           <div class="social-links">
             <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
@@ -34,8 +34,7 @@
         <div class="footer-section">
           <h3>Contact Info</h3>
           <ul class="contact-info">
-            <li><i class="fas fa-map-marker-alt"></i> 123 Main Street, Karachi, Pakistan</li>
-            <li><i class="fas fa-envelope"></i> zingshop@zing.shop</li>
+            <li><i class="fas fa-envelope"></i> zingshop@zingshop.store</li>
           </ul>
           <div class="payment-methods">
             <img src="../assets/easypaisa.png" alt="" style="width: 100px;height: 70px;">
@@ -45,7 +44,7 @@
       </div>
 
       <div class="footer-bottom">
-        <p>&copy; Copyright © {{ currentYear }}  | Powered by Data Network Solutions (SMC-Private) Limited.</p>
+        <p>&copy; Copyright © {{ currentYear }} ZING SHOP Store. Powered by Data Tech Solutions (SMC-Private) Limited</p>
       </div>
     </div>
   </footer>
